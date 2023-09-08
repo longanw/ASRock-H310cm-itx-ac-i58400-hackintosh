@@ -1,0 +1,1 @@
+# ASRock-H310cm-itx-ac-i58400-hackintosh
